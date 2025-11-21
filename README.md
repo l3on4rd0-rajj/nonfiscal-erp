@@ -16,5 +16,4 @@ Inclui geração de relatórios em **PDF via DOMPDF**, sistema de autenticação
 
 ---
 
-## 📁 Estrutura do Projeto
 
