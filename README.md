@@ -9,7 +9,7 @@ Inclui geração de relatórios em **PDF via DOMPDF**, sistema de autenticação
 
 - **PHP 7+**
 - **MySQL / MariaDB**
-- **DOMPDF** – geração de PDFs
+- **DOMPDF** – geração de PDF's
 - **HTML / CSS / JavaScript**
 - **Bootstrap** (se presente nas páginas)
 - **Sessões PHP** para autenticação
